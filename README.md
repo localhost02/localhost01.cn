@@ -1,3 +1,4 @@
 # localhost01.cn
 
-** 存储博客评论 **
+** 博客评论仓库 **
+博客地址：localhost01.cn
